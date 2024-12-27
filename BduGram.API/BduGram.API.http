@@ -1,0 +1,6 @@
+@BduGram.API_HostAddress = http://localhost:5221
+
+GET {{BduGram.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

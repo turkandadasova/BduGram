@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zJWnHHmxp6A+fi3eMqh01pAdJdWkgRU2sbBSIEFweQc=",
+  "Source": "BduGram.API",
+  "BasePath": "_content/BduGram.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
