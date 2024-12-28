@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BduGram.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6fe2c305a4a29086869f2df6ef1babcec3d8dca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cb788eb37fd1b4485138b8148318ef33286374f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BduGram.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BduGram.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

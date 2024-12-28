@@ -1,5 +1,6 @@
 
 using BduGram.DAL;
+using BduGram.DAL.Context;
 using Microsoft.EntityFrameworkCore;
 
 namespace BduGram.API

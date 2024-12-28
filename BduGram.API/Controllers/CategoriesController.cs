@@ -1,4 +1,5 @@
-﻿using BduGram.Core.Entities;
+﻿using BduGram.BL.Helpers;
+using BduGram.Core.Entities;
 using BduGram.Core.Repositories;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -11,6 +12,19 @@ namespace BduGram.API.Controllers
     [ApiController]
     public class CategoriesController(ICategoryRepository _repo) : ControllerBase
     {
+        [HttpGet("Hash")]
+        public async Task<IActionResult> Get(string s)
+        {
+            return Ok(HashHelper.HashPassword(s));
+        }
+
+        [HttpGet("IsCorrect")]
+        public async Task<IActionResult> Get(string s,string pass)
+        {
+            return Ok(HashHelper.VerifyHashedPassword(s,pass));
+        }
+
+
         // GET: api/<CategoriesController>
         [HttpGet]
         public async Task<IActionResult> Get()
@@ -20,9 +34,10 @@ namespace BduGram.API.Controllers
 
         // GET api/<CategoriesController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task<IActionResult> Get(int id)
         {
-            return "value";
+            return Ok(await _repo.GetByIdAsync(id));
+           // return "value";
         }
 
         // POST api/<CategoriesController>
@@ -34,16 +49,15 @@ namespace BduGram.API.Controllers
             return Ok(category.Id);
         }
 
-        // PUT api/<CategoriesController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
+      
 
         // DELETE api/<CategoriesController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
+            await _repo.RemoveAsync(id);
+            await _repo.SaveAsync();
+            return Ok();
         }
     }
 }
