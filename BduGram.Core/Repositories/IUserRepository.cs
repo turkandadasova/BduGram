@@ -9,6 +9,6 @@ namespace BduGram.Core.Repositories
 {
     public interface IUserRepository:IGenericRepository<User>
     {
-        Task<User?> GetUserByUserNameAsync (string userName);
+        
     }
 }

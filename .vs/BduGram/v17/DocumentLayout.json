@@ -3,16 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\services\\implements\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\services\\implements\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|solutionrelative:bdugram.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|solutionrelative:bdugram.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23172035-6388-47FF-8574-E6CDAF5F881C}|BduGram.API\\BduGram.API.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23172035-6388-47FF-8574-E6CDAF5F881C}|BduGram.API\\BduGram.API.csproj|solutionrelative:bdugram.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|solutionrelative:bdugram.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|solutionrelative:bdugram.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\validators\\usercreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\validators\\usercreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|solutionrelative:bdugram.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.core\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|solutionrelative:bdugram.core\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|solutionrelative:bdugram.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|solutionrelative:bdugram.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|solutionrelative:bdugram.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23172035-6388-47FF-8574-E6CDAF5F881C}|BduGram.API\\BduGram.API.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23172035-6388-47FF-8574-E6CDAF5F881C}|BduGram.API\\BduGram.API.csproj|solutionrelative:bdugram.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.core\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|solutionrelative:bdugram.core\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\exceptions\\common\\existexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,34 +107,6 @@
       "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\dtos\\userdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|solutionrelative:bdugram.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\dtos\\categorydtos\\categorylistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\dtos\\categorydtos\\categorylistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -65,26 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.bl\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26115EA4-7029-4332-96E9-E1760538B43D}|BduGram.BL\\BduGram.BL.csproj|solutionrelative:bdugram.bl\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|solutionrelative:bdugram.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|solutionrelative:bdugram.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|solutionrelative:bdugram.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.core\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|solutionrelative:bdugram.core\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.dal\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,10 +131,6 @@
       "RelativeMoniker": "D:0:0:{23172035-6388-47FF-8574-E6CDAF5F881C}|BduGram.API\\BduGram.API.csproj|solutionrelative:bdugram.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.core\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|solutionrelative:bdugram.core\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|solutionrelative:bdugram.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -111,20 +139,8 @@
       "RelativeMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|solutionrelative:bdugram.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|solutionrelative:bdugram.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|solutionrelative:bdugram.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|solutionrelative:bdugram.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD558C63-A023-458B-B433-A48F78E7E936}|BduGram.Core\\BduGram.Core.csproj|solutionrelative:bdugram.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Migrations\\20241227232424_edCategoriesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -133,10 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.dal\\migrations\\20241227232501_updatedcategoriestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B7E90B5-6AE4-43A4-B54C-5E43B8377DC6}|BduGram.DAL\\BduGram.DAL.csproj|solutionrelative:bdugram.dal\\migrations\\20241227232501_updatedcategoriestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23172035-6388-47FF-8574-E6CDAF5F881C}|BduGram.API\\BduGram.API.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23172035-6388-47FF-8574-E6CDAF5F881C}|BduGram.API\\BduGram.API.csproj|solutionrelative:bdugram.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23172035-6388-47FF-8574-E6CDAF5F881C}|BduGram.API\\BduGram.API.csproj|c:\\users\\furqan service\\source\\repos\\bdugram\\bdugram.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -170,349 +182,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Profiles\\UserProfile.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\Profiles\\UserProfile.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Profiles\\UserProfile.cs",
-              "RelativeToolTip": "BduGram.BL\\Profiles\\UserProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BduGram.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BduGram.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:17:43.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserCreateDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Validators\\UserCreateDtoValidator.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\Validators\\UserCreateDtoValidator.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Validators\\UserCreateDtoValidator.cs",
-              "RelativeToolTip": "BduGram.BL\\Validators\\UserCreateDtoValidator.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T19:48:40.151Z",
+              "WhenOpened": "2025-01-02T12:11:28.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ExistException.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Exceptions\\Common\\ExistException.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\Exceptions\\Common\\ExistException.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Exceptions\\Common\\ExistException.cs",
-              "RelativeToolTip": "BduGram.BL\\Exceptions\\Common\\ExistException.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBYAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T17:37:11.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Exceptions\\Common\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\Exceptions\\Common\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Exceptions\\Common\\NotFoundException.cs",
-              "RelativeToolTip": "BduGram.BL\\Exceptions\\Common\\NotFoundException.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T17:27:05.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IBaseException.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Exceptions\\IBaseException.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\Exceptions\\IBaseException.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Exceptions\\IBaseException.cs",
-              "RelativeToolTip": "BduGram.BL\\Exceptions\\IBaseException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T17:26:20.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Implements\\AuthService.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\Services\\Implements\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Implements\\AuthService.cs",
-              "RelativeToolTip": "BduGram.BL\\Services\\Implements\\AuthService.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAswCYAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T17:17:49.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\UserDtos\\LoginDto.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\DTOs\\UserDtos\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\UserDtos\\LoginDto.cs",
-              "RelativeToolTip": "BduGram.BL\\DTOs\\UserDtos\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T17:14:33.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\Services\\Interfaces\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "BduGram.BL\\Services\\Interfaces\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T17:12:52.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\UserDtos\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\DTOs\\UserDtos\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\UserDtos\\RegisterDto.cs",
-              "RelativeToolTip": "BduGram.BL\\DTOs\\UserDtos\\RegisterDto.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T17:06:08.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HashHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Helpers\\HashHelper.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\Helpers\\HashHelper.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Helpers\\HashHelper.cs",
-              "RelativeToolTip": "BduGram.BL\\Helpers\\HashHelper.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAYwB0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T22:28:14.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CategoryCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\CategoryDtos\\CategoryCreateDto.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\DTOs\\CategoryDtos\\CategoryCreateDto.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\CategoryDtos\\CategoryCreateDto.cs",
-              "RelativeToolTip": "BduGram.BL\\DTOs\\CategoryDtos\\CategoryCreateDto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T15:03:10.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoryListItem.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\CategoryDtos\\CategoryListItem.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\DTOs\\CategoryDtos\\CategoryListItem.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\CategoryDtos\\CategoryListItem.cs",
-              "RelativeToolTip": "BduGram.BL\\DTOs\\CategoryDtos\\CategoryListItem.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAArwBMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T15:03:33.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "BduGram.Core\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Entities\\User.cs",
-              "RelativeToolTip": "BduGram.Core\\Entities\\User.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T21:35:20.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\Services\\Interfaces\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeToolTip": "BduGram.BL\\Services\\Interfaces\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T15:01:27.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "BduGram.BL\\Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T22:24:10.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Implements\\UserService.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\Services\\Implements\\UserService.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Implements\\UserService.cs",
-              "RelativeToolTip": "BduGram.BL\\Services\\Implements\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T22:23:53.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Implements\\CategoryService.cs",
-              "RelativeDocumentMoniker": "BduGram.BL\\Services\\Implements\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Implements\\CategoryService.cs",
-              "RelativeToolTip": "BduGram.BL\\Services\\Implements\\CategoryService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T15:01:03.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "BduGram.DAL\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\ServiceRegistration.cs",
-              "RelativeToolTip": "BduGram.DAL\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T22:59:43.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "BduGram.DAL\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "BduGram.DAL\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T22:15:53.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "BduGram.Core\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "BduGram.Core\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T21:59:24.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Enums\\Roles.cs",
-              "RelativeDocumentMoniker": "BduGram.Core\\Enums\\Roles.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Enums\\Roles.cs",
-              "RelativeToolTip": "BduGram.Core\\Enums\\Roles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T21:50:27.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Configurations\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "BduGram.DAL\\Configurations\\UserConfiguration.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Configurations\\UserConfiguration.cs",
-              "RelativeToolTip": "BduGram.DAL\\Configurations\\UserConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T21:38:56.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BduDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Context\\BduDbContext.cs",
-              "RelativeDocumentMoniker": "BduGram.DAL\\Context\\BduDbContext.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Context\\BduDbContext.cs",
-              "RelativeToolTip": "BduGram.DAL\\Context\\BduDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T21:26:51.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.API\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "BduGram.API\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.API\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "BduGram.API\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T23:06:15.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "20241228215619_AddedRoleAndIsBannedProps.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Migrations\\20241228215619_AddedRoleAndIsBannedProps.cs",
-              "RelativeDocumentMoniker": "BduGram.DAL\\Migrations\\20241228215619_AddedRoleAndIsBannedProps.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Migrations\\20241228215619_AddedRoleAndIsBannedProps.cs",
-              "RelativeToolTip": "BduGram.DAL\\Migrations\\20241228215619_AddedRoleAndIsBannedProps.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T21:56:19.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "20241228214712_CreatedCategoriesAndUsersTables.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Migrations\\20241228214712_CreatedCategoriesAndUsersTables.cs",
-              "RelativeDocumentMoniker": "BduGram.DAL\\Migrations\\20241228214712_CreatedCategoriesAndUsersTables.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Migrations\\20241228214712_CreatedCategoriesAndUsersTables.cs",
-              "RelativeToolTip": "BduGram.DAL\\Migrations\\20241228214712_CreatedCategoriesAndUsersTables.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T21:47:13.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 7,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "BduGram.DAL\\Repositories\\CategoryRepository.cs",
@@ -525,20 +225,202 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Configurations\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "BduGram.DAL\\Configurations\\CategoryConfiguration.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Configurations\\CategoryConfiguration.cs",
-              "RelativeToolTip": "BduGram.DAL\\Configurations\\CategoryConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "BduGram.BL\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T21:48:28.985Z",
+              "WhenOpened": "2025-01-01T17:12:52.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Implements\\AuthService.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\Services\\Implements\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Implements\\AuthService.cs",
+              "RelativeToolTip": "BduGram.BL\\Services\\Implements\\AuthService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:17:49.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BduGram.Core\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "BduGram.Core\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:59:24.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\UserDtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\DTOs\\UserDtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\UserDtos\\RegisterDto.cs",
+              "RelativeToolTip": "BduGram.BL\\DTOs\\UserDtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:06:08.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "BduGram.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "BduGram.DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:45:50.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Validators\\UserCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\Validators\\UserCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Validators\\UserCreateDtoValidator.cs",
+              "RelativeToolTip": "BduGram.BL\\Validators\\UserCreateDtoValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:48:40.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "BduGram.DAL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\ServiceRegistration.cs",
+              "RelativeToolTip": "BduGram.DAL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:59:43.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "BduGram.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:01:27.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Implements\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\Services\\Implements\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Implements\\CategoryService.cs",
+              "RelativeToolTip": "BduGram.BL\\Services\\Implements\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:01:03.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Implements\\UserService.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\Services\\Implements\\UserService.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Implements\\UserService.cs",
+              "RelativeToolTip": "BduGram.BL\\Services\\Implements\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T22:23:53.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "BduGram.BL\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T22:24:10.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\ServiceRegistration.cs",
+              "RelativeToolTip": "BduGram.BL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:59:01.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Profiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\Profiles\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Profiles\\UserProfile.cs",
+              "RelativeToolTip": "BduGram.BL\\Profiles\\UserProfile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:17:43.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BduGram.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "BduGram.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:14:03.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "BduGram.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "BduGram.Core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:32:57.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "BduGram.Core\\GlobalUsings.cs",
@@ -551,20 +433,215 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Repositories\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "BduGram.Core\\Repositories\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Repositories\\IGenericRepository.cs",
-              "RelativeToolTip": "BduGram.Core\\Repositories\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BduGram.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Entities\\User.cs",
+              "RelativeToolTip": "BduGram.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T22:32:57.343Z",
+              "WhenOpened": "2024-12-28T21:35:20.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "BduGram.Core\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Enums\\Roles.cs",
+              "RelativeToolTip": "BduGram.Core\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:50:27.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\UserDtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\DTOs\\UserDtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\UserDtos\\LoginDto.cs",
+              "RelativeToolTip": "BduGram.BL\\DTOs\\UserDtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:14:33.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.API\\Program.cs",
+              "RelativeDocumentMoniker": "BduGram.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.API\\Program.cs",
+              "RelativeToolTip": "BduGram.API\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:38:42.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBaseException.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Exceptions\\IBaseException.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\Exceptions\\IBaseException.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Exceptions\\IBaseException.cs",
+              "RelativeToolTip": "BduGram.BL\\Exceptions\\IBaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:26:20.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Exceptions\\Common\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\Exceptions\\Common\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Exceptions\\Common\\NotFoundException.cs",
+              "RelativeToolTip": "BduGram.BL\\Exceptions\\Common\\NotFoundException.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:27:05.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExistException.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Exceptions\\Common\\ExistException.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\Exceptions\\Common\\ExistException.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Exceptions\\Common\\ExistException.cs",
+              "RelativeToolTip": "BduGram.BL\\Exceptions\\Common\\ExistException.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:37:11.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HashHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Helpers\\HashHelper.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\Helpers\\HashHelper.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\Helpers\\HashHelper.cs",
+              "RelativeToolTip": "BduGram.BL\\Helpers\\HashHelper.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T22:28:14.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\CategoryDtos\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\DTOs\\CategoryDtos\\CategoryCreateDto.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\CategoryDtos\\CategoryCreateDto.cs",
+              "RelativeToolTip": "BduGram.BL\\DTOs\\CategoryDtos\\CategoryCreateDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:03:10.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryListItem.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\CategoryDtos\\CategoryListItem.cs",
+              "RelativeDocumentMoniker": "BduGram.BL\\DTOs\\CategoryDtos\\CategoryListItem.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.BL\\DTOs\\CategoryDtos\\CategoryListItem.cs",
+              "RelativeToolTip": "BduGram.BL\\DTOs\\CategoryDtos\\CategoryListItem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAArwBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:03:33.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "BduGram.DAL\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "BduGram.DAL\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:38:56.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BduDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Context\\BduDbContext.cs",
+              "RelativeDocumentMoniker": "BduGram.DAL\\Context\\BduDbContext.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Context\\BduDbContext.cs",
+              "RelativeToolTip": "BduGram.DAL\\Context\\BduDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:26:51.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "BduGram.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "BduGram.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwBcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T23:06:15.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20241228215619_AddedRoleAndIsBannedProps.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Migrations\\20241228215619_AddedRoleAndIsBannedProps.cs",
+              "RelativeDocumentMoniker": "BduGram.DAL\\Migrations\\20241228215619_AddedRoleAndIsBannedProps.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Migrations\\20241228215619_AddedRoleAndIsBannedProps.cs",
+              "RelativeToolTip": "BduGram.DAL\\Migrations\\20241228215619_AddedRoleAndIsBannedProps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:56:19.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20241228214712_CreatedCategoriesAndUsersTables.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Migrations\\20241228214712_CreatedCategoriesAndUsersTables.cs",
+              "RelativeDocumentMoniker": "BduGram.DAL\\Migrations\\20241228214712_CreatedCategoriesAndUsersTables.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Migrations\\20241228214712_CreatedCategoriesAndUsersTables.cs",
+              "RelativeToolTip": "BduGram.DAL\\Migrations\\20241228214712_CreatedCategoriesAndUsersTables.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:47:13.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "BduGram.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "BduGram.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:48:28.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Repositories\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "BduGram.Core\\Repositories\\ICategoryRepository.cs",
@@ -577,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "BduGram.Core\\Entities\\Category.cs",
@@ -590,20 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "BduGram.Core\\Entities\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "BduGram.Core\\Entities\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T21:14:03.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "20241228131208_CreatedTable.cs",
               "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Migrations\\20241228131208_CreatedTable.cs",
               "RelativeDocumentMoniker": "BduGram.DAL\\Migrations\\20241228131208_CreatedTable.cs",
@@ -616,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "20241227232424_edCategoriesTable.cs",
               "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Migrations\\20241227232424_edCategoriesTable.cs",
               "RelativeDocumentMoniker": "BduGram.DAL\\Migrations\\20241227232424_edCategoriesTable.cs",
@@ -627,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "20241227232501_UpdatedCategoriesTable.cs",
               "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Migrations\\20241227232501_UpdatedCategoriesTable.cs",
               "RelativeDocumentMoniker": "BduGram.DAL\\Migrations\\20241227232501_UpdatedCategoriesTable.cs",
@@ -640,20 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.API\\Program.cs",
-              "RelativeDocumentMoniker": "BduGram.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.API\\Program.cs",
-              "RelativeToolTip": "BduGram.API\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T21:38:42.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "20241227220023_CreatedCategoriesTable.cs",
               "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\Migrations\\20241227220023_CreatedCategoriesTable.cs",
               "RelativeDocumentMoniker": "BduGram.DAL\\Migrations\\20241227220023_CreatedCategoriesTable.cs",
@@ -666,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.API\\appsettings.json",
               "RelativeDocumentMoniker": "BduGram.API\\appsettings.json",
@@ -679,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "BduGram.DAL.csproj",
               "DocumentMoniker": "C:\\Users\\Furqan Service\\source\\repos\\BduGram\\BduGram.DAL\\BduGram.DAL.csproj",
               "RelativeDocumentMoniker": "BduGram.DAL\\BduGram.DAL.csproj",

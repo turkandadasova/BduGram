@@ -15,7 +15,7 @@ namespace BduGram.DAL.Repositories
         protected DbSet<T> Table => _context.Set<T>();  
         public async Task AddAsync(T entity)
         {
-            await Table.AddAsync(entity);
+            await Table.AddAsync(entity);            
         }
 
         public IQueryable<T> GetAll()=>Table.AsQueryable();

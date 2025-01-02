@@ -1,4 +1,5 @@
-﻿using BduGram.Core.Repositories;
+﻿using BduGram.Core.Entities;
+using BduGram.Core.Repositories;
 using BduGram.DAL.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -17,5 +18,7 @@ namespace BduGram.DAL
             services.AddScoped<IUserRepository, UserRepository>();
             return services;
         }
+
+        
     }
 }

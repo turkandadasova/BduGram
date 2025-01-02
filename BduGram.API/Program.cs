@@ -1,4 +1,5 @@
 
+using BduGram.BL;
 using BduGram.DAL;
 using BduGram.DAL.Context;
 using Microsoft.EntityFrameworkCore;
@@ -21,6 +22,10 @@ namespace BduGram.API
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSql"));
             });
+            builder.Services.AddFluentValidation();
+            builder.Services.AddServices();
+            builder.Services.AddAutoMapper();
+            builder.Services.AddHttpContextAccessor();
             builder.Services.AddRepositories();
             var app = builder.Build();
 

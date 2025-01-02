@@ -12,55 +12,9 @@ namespace BduGram.DAL.Repositories
 {
     public class UserRepository :GenericRepository<User>, IUserRepository
     {
-        private readonly BduDbContext _context;
-        public UserRepository(BduDbContext context) : base(context)
+        public UserRepository(BduDbContext _context) : base(_context)
         {
-            _context = context;
-        }
-
-        public Task AddAsync(User entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IQueryable<User> GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<User?> GetByIdAsync(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public async Task<User?> GetUserByUserNameAsync(string userName)
-        {
-            return await _context.Users.Where(x=>x.Username==userName).FirstOrDefaultAsync();
-        }
-
-        public IQueryable<User> GetWhere(Func<User, bool> expression)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<bool> IsExistAsync(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Remove(User entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<bool> RemoveAsync(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<int> SaveAsync()
-        {
-            throw new NotImplementedException();
+            
         }
     }
 }

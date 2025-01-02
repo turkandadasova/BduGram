@@ -1,4 +1,5 @@
-﻿using BduGram.BL.DTOs.UserDtos;
+﻿using AutoMapper;
+using BduGram.BL.DTOs.UserDtos;
 using BduGram.BL.Exceptions.Common;
 using BduGram.BL.Helpers;
 using BduGram.BL.Services.Interfaces;
@@ -13,7 +14,7 @@ using System.Threading.Tasks;
 
 namespace BduGram.BL.Services.Implements
 {
-    public class AuthService(IUserRepository _repo) : IAuthService
+    public class AuthService(IUserRepository _repo,IMapper _mapper) : IAuthService
     {
         public async Task<string> LoginAsync(LoginDto dto)
         {
@@ -39,6 +40,10 @@ namespace BduGram.BL.Services.Implements
                     throw new ExistException("username already using by another user");
                 }
             }
+                user=_mapper.Map<User>(dto);
+                await _repo.AddAsync(user);
+                await _repo.SaveAsync();
+
         }
     }
 }

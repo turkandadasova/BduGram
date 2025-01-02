@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using BduGram.BL.DTOs.UserDtos;
+using BduGram.BL.Helpers;
 using BduGram.Core.Entities;
 using System;
 using System.Collections.Generic;
@@ -13,7 +14,7 @@ namespace BduGram.BL.Profiles
     {
         public UserProfile()
         {
-            CreateMap<RegisterDto, User>();
+            CreateMap<RegisterDto, User>().ForMember(x=>x.PasswordHash,x=>x.MapFrom(y=>HashHelper.HashPassword(y.Password)));
         }
     }
 }
