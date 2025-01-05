@@ -22,6 +22,8 @@ namespace BduGram.API
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSql"));
             });
+            builder.Services.AddAuth(builder.Configuration);
+            builder.Services.AddJwtOptions(builder.Configuration);
             builder.Services.AddFluentValidation();
             builder.Services.AddServices();
             builder.Services.AddAutoMapper();
@@ -37,7 +39,7 @@ namespace BduGram.API
             }
 
             app.UseHttpsRedirection();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
 

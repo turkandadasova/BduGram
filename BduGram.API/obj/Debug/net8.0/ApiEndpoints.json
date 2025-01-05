@@ -107,7 +107,7 @@
   },
   {
     "ContainingType": "BduGram.API.Controllers.CategoriesController",
-    "Method": "Get",
+    "Method": "Verify",
     "RelativePath": "api/Categories/IsCorrect",
     "HttpMethod": "GET",
     "IsController": true,

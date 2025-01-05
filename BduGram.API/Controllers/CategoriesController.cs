@@ -1,6 +1,7 @@
 ﻿using BduGram.BL.Helpers;
 using BduGram.Core.Entities;
 using BduGram.Core.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -19,7 +20,7 @@ namespace BduGram.API.Controllers
         }
 
         [HttpGet("IsCorrect")]
-        public async Task<IActionResult> Get(string s,string pass)
+        public async Task<IActionResult> Verify(string s,string pass)
         {
             return Ok(HashHelper.VerifyHashedPassword(s,pass));
         }
@@ -27,6 +28,7 @@ namespace BduGram.API.Controllers
 
         // GET: api/<CategoriesController>
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> Get()
         {
             return Ok(await _repo.GetAll().ToListAsync());
