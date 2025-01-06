@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BduGram.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+710f00b3cac46ce9dfd71c4cbeb13c0c8eed9281")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d321b64469395d809a590db4c8733157fc893075")]
 [assembly: System.Reflection.AssemblyProductAttribute("BduGram.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BduGram.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
